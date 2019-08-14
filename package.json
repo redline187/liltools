@@ -1,0 +1,11 @@
+{
+  "name": "liltools",
+  "version": "0.0.1",
+  "description": "Some small tools that will help you",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
