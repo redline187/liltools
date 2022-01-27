@@ -1,6 +1,6 @@
 {
   "name": "liltools",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Some small tools that will help you",
   "main": "index.js",
   "scripts": {
